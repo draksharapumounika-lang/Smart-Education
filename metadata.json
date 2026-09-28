@@ -1,0 +1,6 @@
+{
+  "name": "EduSmart - Smart Education & Interactive Learning Portal",
+  "description": "A next-generation smart education portal with interactive STEM laboratory simulations, adaptive course curricula, mastery diagnostics, and personalized study planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
